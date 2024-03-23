@@ -140,3 +140,4 @@
 /home/llvll09/Documentos/dev/projects-from-sell/users-api-dotnet/obj/Debug/net8.0/users-api-dotnet.genruntimeconfig.cache
 /home/llvll09/Documentos/dev/projects-from-sell/users-api-dotnet/obj/Debug/net8.0/ref/users-api-dotnet.dll
 /home/llvll09/Documentos/dev/projects-from-sell/users-api-dotnet/bin/Debug/net8.0/X.PagedList.dll
+/home/llvll09/Documentos/dev/projects-from-sell/users-api-dotnet/obj/Debug/net8.0/users-api-dotnet.sourcelink.json
