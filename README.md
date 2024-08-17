@@ -22,7 +22,8 @@ POST: /api/user/regiter:
 
 POST: /api/user/login:
     
-    To login the user. To log in, the admin user must log in to this endpoint
+    To login the user. To log in, the admin user must log in to this endpoint.
+    generated token jwt.
     
     JSON:
         emailOrUserName: string, Accept username or email;
